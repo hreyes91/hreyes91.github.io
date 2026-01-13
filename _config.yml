@@ -26,22 +26,22 @@ author:
   avatar           : "profile.png"
   name             : "Humberto /n Reyes-Gonzalez"
   pronouns         : # example: "she/her"  
-  bio              : "PhD in Physics. Focus on AI and data science for scientifc discovery in fundamental physics"
-  location         : "Earth"
+  bio              : "PhD in Physics. AI for science."
+  location         : "Aachen, Germany"
   employer         : "RWTH Aachen University"
-  uri              : # URL
+  uri              : "https://www.physik.rwth-aachen.de/cms/physik/die-fachgruppe/institute-und-lehrstuehle/~bbxnga/mitarbeiter-campus-/?gguid=PER-N4SHNVA&allou=1&lidx=1"
   email            : "humberto.reyes@rwth-aachen.de" 
 
   # Academic websites
-  academia         : # URL
+  academia         :""https://www.physik.rwth-aachen.de/cms/physik/die-fachgruppe/institute-und-lehrstuehle/~bbxnga/mitarbeiter-campus-/?gguid=PER-N4SHNVA&allou=1&lidx=1"go"
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=90XVO7AAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-3283-5208"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -51,13 +51,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/hreyes91"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app"  Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/humberto-reyes-809296266/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
