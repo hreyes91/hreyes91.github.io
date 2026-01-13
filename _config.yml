@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Humberto Reyes-Gonzalez"
 title_separator          : "-"
 name                     : &name "Humberto Reyes-Gonzalez"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile-github-page.jpg"
   name             : "Humberto Reyes-Gonzalez"
   pronouns         : # example: "she/her"  
   bio              : "PhD in Physics. AI for science."
