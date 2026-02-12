@@ -1,7 +1,7 @@
 ---
 title: "New Signatures of Dirac Neutralino Dark Matter"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2021-dirac-neutralino
 date: 2021-01-01
 venue: "Rencontres de Moriond"
