@@ -1,7 +1,7 @@
 ---
 title: "Unitarity and Stability Conditions in a 4-Higgs Doublet Model with an S3 Family Symmetry"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2017-unitarity-stability-4hdm
 date: 2017-01-01
 venue: "J. Phys.: Conf. Ser."
