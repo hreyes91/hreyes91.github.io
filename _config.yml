@@ -23,7 +23,7 @@ repository               : "hreyes91/hreyes91.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile-github-page.png"
+  avatar           : "profile-github-page.jpg"
   name             : "Humberto Reyes-Gonzalez"
   pronouns         : # example: "she/her"  
   bio              : "PhD in Physics. AI for science."
