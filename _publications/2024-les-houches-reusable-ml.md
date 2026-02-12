@@ -1,7 +1,7 @@
 ---
 title: "Les Houches Guide to Reusable ML Models in LHC Analyses"
 collection: publications
-category: report
+category: manuscripts
 permalink: /publication/2024-les-houches-reusable-ml
 date: 2024-01-01
 venue: "SciPost Physics Communication Reports"
