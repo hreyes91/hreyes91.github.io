@@ -11,35 +11,36 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Subatomic Physics and Astroparticles, Université Grenoble-Alpes, France, 2020
+*M.Sc. in Physics, Universidad Nacional Autónoma de México, Mexico, 2017
+* B.Sc. in Physics (Honors), Universidad Autónoma de Coahuila, 2014
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023–Present: Postdoctoral Researcher — RWTH Aachen University, Germany
+  * Develop transformer-based foundation models for multimodal scientific data.
+  * GENOVA: a statistical validation framework for high-dimensional generative models.
+  * Investigate scaling laws, robustness limits, and interpretability of large models.
+  * Build generative surrogates accelerating complex physics simulations.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020–2023: Postdoctoral Researcher — University of Genoa, Italy
+  * Designed deep generative models (Normalizing Flows, manifold learning) for large datasets.
+  * Built neural likelihood models for uncertainty-aware inference.
+  * Contributed to open-source ML tools used in international scientific collaborations.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+
+
+
+Service and leadership
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Working Group Leader (Theory–Experiment Interface) and Manager: [COST Action CA24146: Machine Learning and Quantum Computing for Future Colliders]([https://www.genome.gov/](https://www.cost.eu/actions/CA24146/#tabs+Name:Description))
+* Experience collaborating across international research teams (Europe, US).
+* Mentor to graduate students in ML and large-model development.
+* State representative and jury. Mexican Physics Olympics. 2013
+* Journal referee. JHEP, SciPost, Rep.Prog.Phys (IOP), MLST.
+
+
 
 Publications
 ======
@@ -59,6 +60,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
