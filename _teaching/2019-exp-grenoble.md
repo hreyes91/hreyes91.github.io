@@ -5,6 +5,6 @@ type: "Undergraduate course"
 permalink: /teaching/2019-exp-grenoble
 venue: "University of Grenoble-Alpes."
 date: 2019-04-01
-location: "Aachen, Germany"
+location: "Grenoble, France"
 --- 
 
