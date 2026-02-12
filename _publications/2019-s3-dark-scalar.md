@@ -1,7 +1,7 @@
 ---
 title: "The S3 Symmetric Model with a Dark Scalar"
 collection: publications
-category: journal
+category: manuscripts
 permalink: /publication/2019-s3-dark-scalar
 date: 2019-01-01
 venue: "Physics Letters B"
