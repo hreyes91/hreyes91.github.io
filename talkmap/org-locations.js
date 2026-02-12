@@ -20,6 +20,11 @@ var addressPoints = [
     8.9338624
   ],
   [
+    "AI for Science: How to Build a ChatGPT that Speaks Particle Physics<br />Seminar, School of Physical and Mathematical Sciences, Universidad Aut\u00f3noma de Coahuila; Saltillo, Mexico",
+    25.4230425,
+    -100.9927509
+  ],
+  [
     "Unsupervised Learning of Likelihood Functions for LHC Results<br />Learning to Discover 2022; Orsay, France",
     48.699184,
     2.187457
