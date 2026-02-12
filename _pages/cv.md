@@ -12,19 +12,19 @@ redirect_from:
 Education
 ======
 * Ph.D. in Subatomic Physics and Astroparticles, Université Grenoble-Alpes, France, 2020
-*M.Sc. in Physics, Universidad Nacional Autónoma de México, Mexico, 2017
+* M.Sc. in Physics, Universidad Nacional Autónoma de México, Mexico, 2017
 * B.Sc. in Physics (Honors), Universidad Autónoma de Coahuila, 2014
 
 
 Work experience
 ======
-* 2023–Present: Postdoctoral Researcher — RWTH Aachen University, Germany
+* ### 2023–Present: Postdoctoral Researcher — RWTH Aachen University, Germany
   * Develop transformer-based foundation models for multimodal scientific data.
   * GENOVA: a statistical validation framework for high-dimensional generative models.
   * Investigate scaling laws, robustness limits, and interpretability of large models.
   * Build generative surrogates accelerating complex physics simulations.
 
-* 2020–2023: Postdoctoral Researcher — University of Genoa, Italy
+* ### 2020–2023: Postdoctoral Researcher — University of Genoa, Italy 
   * Designed deep generative models (Normalizing Flows, manifold learning) for large datasets.
   * Built neural likelihood models for uncertainty-aware inference.
   * Contributed to open-source ML tools used in international scientific collaborations.
