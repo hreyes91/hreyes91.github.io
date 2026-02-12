@@ -1,7 +1,7 @@
 ---
 title: "The Fundamental Limit of Jet Tagging"
 collection: publications
-category: journal
+category: manuscripts
 permalink: /publication/2024-fundamental-limit-jet-tagging
 date: 2024-01-01
 venue: "Physical Review D"
