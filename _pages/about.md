@@ -8,13 +8,13 @@ redirect_from:
 ---
 
 
+Welcolme to my personal page!
 
-I am a researcher working at the intersection of machine learning and particle physics. My work focuses on developing principled statistical and generative modeling methods for high-energy physics, including normalizing flows, likelihood-free inference, and foundation models for collider data. I am particularly interested in building reliable, scalable ML systems for scientific discovery, bridging modern AI techniques with the demands of fundamental physics.
+I am a researcher working at the intersection of machine learning and particle physics. My work focuses on developing principled statistical and generative modeling methods for high-energy physics, including normalizing flows, transformers, and foundation models for collider data. I am particularly interested in building reliable, scalable ML systems for scientific discovery, bridging modern AI techniques with the demands of fundamental physics.
 
-Welcolme to my personal page! Below is a summary of my current research avenues:
+ Below is a summary of my current research avenues:
 
-Foundation models in High Energy Physics
-======
+## Foundation models in High Energy Physics
 
 High-energy physics provides a natural testbed for developing large-scale foundation models: it offers vast amounts of structured, high-dimensional data governed by well-defined physical principles. My research focuses on building transformer-based architectures trained directly on collider data, moving beyond simulation-driven pipelines toward models that learn general-purpose representations from real LHC events. These models can be fine-tuned for tasks such as jet classification, fast simulation, and anomaly detection. A central component of my work is ensuring that such foundation models are interpretable, scalable, and statistically reliable.
 
