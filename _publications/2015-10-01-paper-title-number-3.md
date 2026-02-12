@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "CaloChallenge 2022: A Community Challenge for Fast Calorimeter Simulation"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2024-calochallenge-2022
+date: 2024-01-01
+venue: "Reports on Progress in Physics"
+paperurl: "https://doi.org/10.48550/arXiv.2410.21611"
+citation: "Krause, C., Reyes-González, H., et al. (2024). 'CaloChallenge 2022: A Community Challenge for Fast Calorimeter Simulation.' Rep. Prog. Phys."
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+We present the results of the ‘Fast Calorimeter Simulation Challenge 2022’—the CaloChallenge. We study state-of-the-art generative models on four calorimeter shower datasets of increasing dimensionality, ranging from a few hundred voxels to a few tens of thousand voxels. The 31 individual submissions span a wide range of current popular generative architectures, including variational autoencoders (VAEs), generative adversarial networks (GANs), normalizing flows, diffusion models, and models based on conditional flow matching. We compare all submissions in terms of quality of generated calorimeter showers, as well as shower generation time and model size. To assess the quality we use a broad range of different metrics including differences in one-dimensional histograms of observables, KPD/FPD scores, AUCs of binary classifiers, and the log-posterior of a multiclass classifier. The results of the CaloChallenge provide the most complete and comprehensive survey of cutting-edge approaches to calorimeter fast simulation to date. In addition, our work provides a uniquely detailed perspective on the important problem of how to evaluate generative models. As such, the results presented here should be applicable for other domains that use generative AI and require fast and faithful generation of samples in a large phase space.
