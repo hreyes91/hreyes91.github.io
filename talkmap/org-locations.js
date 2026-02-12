@@ -18,5 +18,10 @@ var addressPoints = [
     "Testing the Boundaries: Normalizing Flows for High-Dimensional Data Sets<br />ACAT 2021; Virtual",
     44.4939936,
     11.3576917
+  ],
+  [
+    "The Limits of Machine Learning Methods in High-Energy Physics<br />Build Big or Build Smart: Examining Scale and Domain Knowledge in Machine Learning for Fundamental Physics; Munich, Germany",
+    48.1371079,
+    11.5753822
   ]
 ];
