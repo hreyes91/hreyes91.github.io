@@ -1,7 +1,7 @@
 ---
 title: "Testing the Boundaries: Normalizing Flows for Higher Dimensional Data Sets"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2022-testing-the-boundaries
 date: 2022-01-01
 venue: "J. Phys.: Conf. Ser."
