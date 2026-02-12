@@ -10,6 +10,11 @@ var addressPoints = [
     16.8620293
   ],
   [
+    "Machine Learning LHC Likelihoods<br />HEP Seminar, University of Siegen; Siegen, Germany",
+    50.8751175,
+    8.0256131
+  ],
+  [
     "A Multi-Task Large Language Model for Jets<br />BOOST 2024; Genova, Italy",
     44.40726,
     8.9338624
