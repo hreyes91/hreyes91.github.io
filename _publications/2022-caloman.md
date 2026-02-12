@@ -1,7 +1,7 @@
 ---
 title: "CaloMan: Fast Generation of Calorimeter Showers with Density Estimation on Learned Manifolds"
 collection: publications
-category: proceedings
+category: manuscripts
 permalink: /publication/2022-caloman
 date: 2022-01-01
 venue: "NeurIPS ML for Physical Sciences Workshop"
