@@ -30,6 +30,11 @@ var addressPoints = [
     16.8620293
   ],
   [
+    "Foundation Models in High-Energy Physics<br />ML-Coffee Seminar, Laboratoire de Physique Subatomique et de Cosmologie; Grenoble, France",
+    45.1875602,
+    5.7357819
+  ],
+  [
     "Unsupervised Learning of Likelihood Functions for LHC Results<br />Learning to Discover 2022; Orsay, France",
     48.699184,
     2.187457
