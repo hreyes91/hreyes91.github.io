@@ -30,6 +30,11 @@ var addressPoints = [
     2.187457
   ],
   [
+    "Normalizing Flows for High-Dimensional High-Energy Physics<br />Theory Seminar, Institute for Theoretical Particle Physics and Cosmology, RWTH Aachen; Aachen, Germany",
+    50.776351,
+    6.083862
+  ],
+  [
     "Large-Scale Machine Learning in Fundamental Physics<br />Seminar, School of Engineering, Universidad Aut\u00f3noma de Coahuila; Saltillo, Mexico",
     25.4230425,
     -100.9927509
