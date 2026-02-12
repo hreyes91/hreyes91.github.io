@@ -15,6 +15,11 @@ var addressPoints = [
     2.187457
   ],
   [
+    "The Fundamental Limit of Jet Tagging<br />ACAT 2025; Hamburg, Germany",
+    53.550341,
+    10.000654
+  ],
+  [
     "Testing the Boundaries: Normalizing Flows for High-Dimensional Data Sets<br />ACAT 2021; Virtual",
     44.4939936,
     11.3576917
