@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
-collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+title: "Aspen Open Jets: Unlocking LHC Data for Foundation Models in Particle Physics"
+collection: manuscripts
+category: journal
+permalink: /publication/2025-aspen-open-jets
+date: 2025-01-01
+venue: "Machine Learning: Science and Technology"
+paperurl: "https://doi.org/10.1088/2632-2153/ade58f"
+citation: "Amram, O., et al., Reyes-González, H. (2025). 'Aspen Open Jets: Unlocking LHC Data for Foundation Models in Particle Physics.' Mach. Learn.: Sci. Technol. 6, 030601."
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+Foundation models are deep learning models pre-trained on large amounts of data which are capable of generalizing to multiple datasets and/or downstream tasks. This work demonstrates how data collected by the CMS experiment at the Large Hadron Collider can be useful in pre-training foundation models for HEP. Specifically, we introduce the AspenOpenJets (AOJs) dataset, consisting of approximately 178 M high pt jets derived from CMS 2016 Open Data. We show how pre-training the OmniJet-α foundation model on AOJs improves performance on generative tasks with significant domain shift: generating boosted top and QCD jets from the simulated JetClass dataset. In addition to demonstrating the power of pre-training of a jet-based foundation model on actual proton–proton collision data, we provide the ML-ready derived AOJs dataset for further public use.
