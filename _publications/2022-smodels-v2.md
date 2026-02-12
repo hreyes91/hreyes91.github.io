@@ -1,7 +1,7 @@
 ---
 title: "Constraining New Physics with SModelS Version 2"
 collection: publications
-category: journal
+category: manuscripts
 permalink: /publication/2022-smodels-v2
 date: 2022-01-01
 venue: "Journal of High Energy Physics"
