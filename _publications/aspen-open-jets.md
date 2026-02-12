@@ -1,7 +1,7 @@
 ---
 title: "Aspen Open Jets: Unlocking LHC Data for Foundation Models in Particle Physics"
-collection: manuscripts
-category: journal
+collection: publications
+category: manuscripts
 permalink: /publication/2025-aspen-open-jets
 date: 2025-01-01
 venue: "Machine Learning: Science and Technology"
