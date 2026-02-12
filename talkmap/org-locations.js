@@ -15,6 +15,11 @@ var addressPoints = [
     2.187457
   ],
   [
+    "Large-Scale Machine Learning in Fundamental Physics<br />Seminar, School of Engineering, Universidad Aut\u00f3noma de Coahuila; Saltillo, Mexico",
+    25.4230425,
+    -100.9927509
+  ],
+  [
     "The Fundamental Limit of Jet Tagging<br />ACAT 2025; Hamburg, Germany",
     53.550341,
     10.000654
