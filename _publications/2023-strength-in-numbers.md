@@ -1,7 +1,7 @@
 ---
 title: "Strength in Numbers: Optimal and Scalable Combination of LHC New-Physics Searches"
 collection: publications
-category: journal
+category: manuscripts
 permalink: /publication/2023-strength-in-numbers
 date: 2023-01-01
 venue: "SciPost Physics"
