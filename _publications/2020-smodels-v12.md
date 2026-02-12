@@ -1,7 +1,7 @@
 ---
 title: "SModelS v1.2: Long-Lived Particles, Combination of Signal Regions, and Other Novelties"
 collection: publications
-category: journal
+category: manuscripts
 permalink: /publication/2020-smodels-v12
 date: 2020-01-01
 venue: "Computer Physics Communications"
