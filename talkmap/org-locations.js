@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "Testing the Boundaries: Normalizing Flows for High-Dimensional Data Sets<br />ACAT 2021; Virtual",
-    44.4939936,
-    11.3576917
+    "Learning Full-Likelihoods of LHC Results with Normalizing Flows<br />ACAT 2022; Bari, Italy",
+    41.1257843,
+    16.8620293
   ],
   [
     "A Multi-Task Large Language Model for Jets<br />BOOST 2024; Genova, Italy",
@@ -10,13 +10,13 @@ var addressPoints = [
     8.9338624
   ],
   [
-    "Learning Full-Likelihoods of LHC Results with Normalizing Flows<br />ACAT 2022; Bari, Italy",
-    41.1257843,
-    16.8620293
+    "Unsupervised Learning of Likelihood Functions for LHC Results<br />Learning to Discover 2022; Orsay, France",
+    48.699184,
+    2.187457
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Testing the Boundaries: Normalizing Flows for High-Dimensional Data Sets<br />ACAT 2021; Virtual",
+    44.4939936,
+    11.3576917
   ]
 ];
