@@ -36,8 +36,8 @@ var addressPoints = [
   ],
   [
     "Machine Learning in High-Energy Physics: The Power of Normalizing Flows<br />HEP Seminar, Institute of Physics, UNAM; Mexico City, Mexico (Virtual)",
-    19.2177716,
-    -99.204678
+    19.2778061,
+    -99.2425512
   ],
   [
     "Large-Scale Machine Learning in Fundamental Physics<br />Seminar, School of Engineering, Universidad Aut\u00f3noma de Coahuila; Saltillo, Mexico",
