@@ -8,4 +8,4 @@ date: 2025-09-03
 location: "Munich, Germany"
 talk_url: "https://indico.ph.tum.de/event/7906/contributions/10775/"
 ---
-Discussed theoretical and practical limits of machine learning approaches in high-energy physics, analyzing scaling behavior, domain knowledge integration, and performance boundaries in collider applications.
+
