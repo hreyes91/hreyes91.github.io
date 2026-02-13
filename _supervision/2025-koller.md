@@ -1,7 +1,7 @@
 ---
 title: "Sarah Koller"
 collection: supervision
-type: "supervision"
+type: "MSc thesis"
 permalink: /supervision/2025-koller
 venue: "RWTH Aachen University"
 date: 2025-10-01
