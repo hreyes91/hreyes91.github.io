@@ -1,5 +1,5 @@
 ---
-title: "Luca Corders"
+title: "Luca Cordes"
 collection: supervision
 
 ---  
