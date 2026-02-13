@@ -7,4 +7,4 @@ venue: "Seminar, School of Engineering, Universidad Autónoma de Coahuila"
 date: 2026-02-01
 location: "Saltillo, Mexico"
 ---
-Delivered a seminar on large-scale machine learning methods for fundamental physics, discussing foundation models, generative modeling, and scalability challenges in collider data analysis.
+
