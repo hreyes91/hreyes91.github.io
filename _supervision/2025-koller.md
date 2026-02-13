@@ -4,7 +4,7 @@ collection: supervision
 type: "MsC thesis"
 permalink: /supervision/2025-koller
 venue: "RWTH Aachen University"
-date: 2024-04-01
+date: 2025-10-01
 location: "Aachen, Germany"
 ---  
 
