@@ -2,11 +2,11 @@
 title: "Reinterpretation and preservation of data and analyses in HEP"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-reinterpretation-preservation-hep
-date: 2025-01-01
+permalink: /publication/2026-codesign
+date: 2026-03-27
 venue: "arXiv"
-paperurl: "https://doi.org/10.48550/arXiv.2504.00256"
-citation: "Butterworth, J., Reyes-Gonzalez, H., et al. (2025). 'Reinterpretation and preservation of data and analyses in HEP.' arXiv:2504.00256."
+paperurl: "https://doi.org/10.48550/arXiv.2603.26613"
+citation: "Butterworth, J., Reyes-Gonzalez, H., et al. (2025). 'On the Codesign of Scientific Experiments and Industrial Systems.' arXiv:2603.26613."
 ---
 
 
