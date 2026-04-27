@@ -1,5 +1,5 @@
 ---
-title: "Reinterpretation and preservation of data and analyses in HEP"
+title: "On the Codesign of Scientific Experiments and Industrial Systems."
 collection: publications
 category: manuscripts
 permalink: /publication/2026-codesign
