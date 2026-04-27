@@ -10,6 +10,11 @@ var addressPoints = [
     -100.9927509
   ],
   [
+    "The theory-experiment interface in the ML era of collider physics<br />Corfu 2026 Workshop on Future Accelerators; Corfu, Greece",
+    39.591337,
+    19.8596189
+  ],
+  [
     "Normalizing Flows for High-Dimensional High-Energy Physics<br />Theory Seminar, Institute for Theoretical Particle Physics and Cosmology, RWTH Aachen; Aachen, Germany",
     50.776351,
     6.083862
@@ -26,8 +31,8 @@ var addressPoints = [
   ],
   [
     "Machine Learning in High-Energy Physics: The Power of Normalizing Flows<br />HEP Seminar, Institute of Physics, UNAM; Mexico City, Mexico (Virtual)",
-    19.2778061,
-    -99.2425512
+    19.2177716,
+    -99.204678
   ],
   [
     "Learning Full-Likelihoods of LHC Results with Normalizing Flows<br />ACAT 2022; Bari, Italy",
